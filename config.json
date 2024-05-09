@@ -1,0 +1,8 @@
+{
+    "gh_token": "your-github-token",
+    "author": {
+        "name": "bot-name",
+        "email": "email"
+    },
+    "bot_token": "your-bot-token"
+}

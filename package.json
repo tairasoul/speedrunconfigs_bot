@@ -1,0 +1,19 @@
+{
+  "name": "speedrunconfigs_bot",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@oceanicjs/builders": "^1.1.11",
+    "adm-zip": "^0.5.12",
+    "isomorphic-git": "^1.25.9",
+    "oceanic.js": "^1.10.3"
+  },
+  "devDependencies": {
+    "@types/adm-zip": "^0.5.5",
+    "@types/node": "^20.12.11"
+  },
+  "type": "module"
+}
